@@ -1,8 +1,8 @@
 ---
 tags:
   - plugin
-resource_link: "https://www.redguides.com/community/resources/mq2targets.2619/"
-support_link: "https://www.redguides.com/community/threads/mq2targets.83780/"
+resource_link: "https://www.redguides.com/community/resources/mq2targets.194/"
+support_link: "https://www.redguides.com/community/threads/mq2targets.66892/"
 repository: "https://github.com/MMOBugs/MQ2Targets"
 config: "MQ2Targets.ini"
 authors: "Drunkendwarf, htw, Knightly, PeteSampras"
